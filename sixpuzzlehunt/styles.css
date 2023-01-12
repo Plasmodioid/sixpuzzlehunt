@@ -1,0 +1,20 @@
+body {
+    background-color: #180434;
+    /*border: 10px solid darkcyan*/
+}
+
+img.resize {
+    max-width: 20%;
+    max-height: 20%;
+}
+
+img.resize2 {
+    max-width: 14%;
+    max-height: 14%;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
